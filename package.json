@@ -1,0 +1,24 @@
+{
+  "name": "maicogroup__testoop",
+  "version": "1.0.0",
+  "description": "<div style=\" background: white;padding: 1rem; display: flex; justify-content: center\">\r <img style=\"background: white;\" src=\"https://maicogroup.com/wp-content/uploads/2020/10/logo-low.png\"/>\r </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TienNguyen2k2/Maicogroup__TestOOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TienNguyen2k2/Maicogroup__TestOOP/issues"
+  },
+  "homepage": "https://github.com/TienNguyen2k2/Maicogroup__TestOOP#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.22",
+    "typescript": "^4.6.2"
+  }
+}
